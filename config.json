@@ -1,0 +1,9 @@
+
+{
+  "webhook": "https://discord.com/api/webhooks/1411924203774414950/2w9lVyinybGL-p3NSrWeqHAf53Rc4WX6XAdpYvwRJJMSsX9fBN-feeUNO63afXsyjal_",
+  "embed": true,
+  "banned_webhook": "https://discord.com/api/webhooks/1411924696194224198/p0Y7_o0BAINXiAagoUMkjfYW5uFtpfCBp4WrX1vkQXa6j43z96EDRBepZ_DiwkwHeq36",
+  "unbanned_webhook": "https://discord.com/api/webhooks/1411924690032918639/e_2eh9bNJzFaOKT5d526oXV1l1bZebgLDmkpJGvggSnZLMphUiDoBjtsWVVuiI9uYKdJ",
+  "note": "Add your Discord webhook URL here for notifications. Set embed to true for rich Discord embeds. Add separate webhooks for banned/unbanned accounts if desired.",
+  "debug": "Make sure your webhook URL is complete and valid from Discord server settings > Integrations > Webhooks"
+}
